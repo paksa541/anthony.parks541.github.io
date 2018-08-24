@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "name": "Anthony Parks",
+    "label": "Sr. Developer",
+    "picture": "https://paksa541.github.io/template/images/molly.png",
+    "email": "anthony.parks541@gmail.com",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://paksa541.github.io",
+    "summary": "I am studying for a PhD in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,24 +17,15 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "paksa541",
+        "url": "http://github.com/paksa541"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "anthony.parks541",
+        "url": "http://linkedin.com/in/anthony.parks541"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+     
     ]
   },
   "interests": [
@@ -42,7 +33,7 @@
       "name": "internet of things",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "Raspberry Pi"
       ]
     },
     {
@@ -61,7 +52,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "Python","PhP","SQL","Bootstrap","Angular","Jquery","Ajax","Json",
         "C++",
         "Java",
         "Javascript",
@@ -76,18 +67,17 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Florida, Gainesville, Fl",
+      "area": "English Spring 2004",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2000-05-01",
+      "endDate": "2004-05-01",
       "gpa": "",
       "courses": [
       ]
